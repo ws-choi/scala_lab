@@ -19,3 +19,10 @@
 |소스코드                                      |제작자 |연락처                |
 |------------------------------------------|----|-------------------|
 |[Lab0] [Introduction]()                       |최우성 |ws_choi@korea.ac.kr|
+
+
+##유용한 링크
+
+- [스칼라 Open Course] (https://class.coursera.org/progfun-005)
+- [30분 스칼라] (http://tryhelloworld.co.kr/courses/30%EB%B6%84-scala)
+
