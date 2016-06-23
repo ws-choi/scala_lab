@@ -17,11 +17,11 @@
   - [과제 제출 방법](https://www.coursera.org/learn/progfun1/lecture/VMdkA/tutorial-working-on-the-programming-assignments)
   - [과제 제출 방법 - example](https://www.coursera.org/learn/progfun1/programming/xIz9O/example-assignment)
 
-1. 제작한 code를 [Github](https://github.com/ws-choi/)에 Contribute하기
+1. 제작한 code를 [Github](https://github.com/ws-choi/scala_lab)에 Contribute하기
 
 
 
-  ------
+------
 ## 강의
 
 - [스칼라 Open Course Link](https://www.coursera.org/learn/progfun1/home/welcome)
