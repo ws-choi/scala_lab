@@ -65,7 +65,24 @@
 
 ## Seminar Mailing List
 ```List
-"정순영교수님" <jsy@korea.ac.kr>,"김성석교수님" <sskim03@skuniv.ac.kr>,"정재화 교수님" <bigbearian@gmail.com>,"채정민교수님" <onacloud@gmail.com>,"정경호" <kyounghjung@naver.com>,"정영희" <coolof@nate.com>,"장홍준" <jhjsun@naver.com>,"이태민" <persuade@gmail.com>,"최우성" <ws_choi@korea.ac.kr>,"현경석" <reclaimer@naver.com>,"디아나" <dialen@daum.net>,"이광민" <kwangmin78@naver.com>,"임태형" <th_lim@korea.ac.kr>,"민종현" <jh_min@korea.ac.kr>,"김병욱" <byoungwook.kim@inc.korea.ac.kr>,"김민석 (인턴)" <rlaalstjr47@korea.ac.kr>,김한이<hanyeemy@korea.ac.kr>,홍보의<boyhong@korea.ac.kr>,
+"정순영교수님" <jsy@korea.ac.kr>,
+"김성석교수님" <sskim03@skuniv.ac.kr>,
+"정재화 교수님" <bigbearian@gmail.com>,
+"채정민교수님" <onacloud@gmail.com>,
+"정경호" <kyounghjung@naver.com>,
+"정영희" <coolof@nate.com>,
+"장홍준" <jhjsun@naver.com>,
+"이태민" <persuade@gmail.com>,
+"최우성" <ws_choi@korea.ac.kr>,
+"현경석" <reclaimer@naver.com>,
+"디아나" <dialen@daum.net>,
+"이광민" <kwangmin78@naver.com>,
+"임태형" <th_lim@korea.ac.kr>,
+"민종현" <jh_min@korea.ac.kr>,
+"김병욱" <byoungwook.kim@inc.korea.ac.kr>,
+"김민석 (인턴)" <rlaalstjr47@korea.ac.kr>,
+"김한이"<hanyeemy@korea.ac.kr>,
+"홍보의"<boyhong@korea.ac.kr>,
 ```
 
 ------
