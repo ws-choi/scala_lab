@@ -23,6 +23,6 @@
 
 ##유용한 링크
 
-- [스칼라 Open Course] (https://class.coursera.org/progfun-005)
+- [스칼라 Open Course] (https://www.coursera.org/learn/progfun1/home/welcome)
 - [30분 스칼라] (http://tryhelloworld.co.kr/courses/30%EB%B6%84-scala)
 
