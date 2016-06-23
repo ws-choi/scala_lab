@@ -9,7 +9,7 @@
 1. [환경 구축](https://github.com/ws-choi/scala_lab#개발환경구축) 완료
 1. [강의](https://www.coursera.org/learn/progfun1/home/welcome) 수강
 1. [과제](https://www.coursera.org/learn/progfun1/home/assignments) 수행
-1. [Seminar Mailing List](https://github.com/ws-choi/scala_lab#Seminar Mailing List)를 대상으로 세미나 공지 (발표 1주일 전)
+1. [Seminar Mailing List](https://github.com/ws-choi/scala_lab#seminar-mailing-list)를 대상으로 세미나 공지 (발표 1주일 전)
 1. 3~4에 대해 발표
 
 ### Advanced
