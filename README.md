@@ -2,7 +2,7 @@
 
 
 ------
-## [발표 예정자](https://github.com/ws-choi/scala_lab#발표순서) TODO List
+## [발표 예정(희망)자](https://github.com/ws-choi/scala_lab#발표순서) TODO List
 
 ### 필수
 1. [발표 스케줄](https://github.com/ws-choi/scala_lab#발표순서) 문의 및 확정
