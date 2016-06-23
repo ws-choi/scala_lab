@@ -2,7 +2,7 @@
 
 
 ------
-## 발표 예정자 TODO List
+## [발표 예정자](https://github.com/ws-choi/scala_lab#발표순서) TODO List
 
 ### 필수
 1. [발표 스케줄](https://github.com/ws-choi/scala_lab#발표순서) 문의 및 확정
@@ -18,8 +18,6 @@
   - [과제 제출 방법 - example](https://www.coursera.org/learn/progfun1/programming/xIz9O/example-assignment)
 
 1. 제작한 code를 [Github](https://github.com/ws-choi/scala_lab)에 Contribute하기
-
-
 
 ------
 ## 강의
@@ -48,6 +46,11 @@
 ## 발표순서
 
 - 발표를 희망하시는 분들께서는 ws_choi@korea.ac.kr로 6월 28일까지 연락주시기 바랍니다.
+- Week 5는 과제가 없습니다. 다른 과제 규모와 상응할 정도의 Example을 제작해서 발표해주세요.
+- Week 7은 현재 강의가 올라와있지 않습니다. 혹시 강의가 끝까지 올라오지 않느다면 다음 자료를 이용해서 발표를 준비해주세요
+  - [Week 7 강의](http://dataknow.net/archive/15685)
+  - [Week 7 자료](https://github.com/ws-choi/scala_lab/tree/alpha-0.1.0/lecture/Week%207)
+  - [Week 7 과제](https://github.com/ws-choi/scala_lab/tree/alpha-0.1.0/assignment/week%207)
 
 |소스코드                                      |제작자 |연락처                |
 |------------------------------------------|----|-------------------|
