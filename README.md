@@ -81,11 +81,12 @@
 "디아나" <dialen@daum.net>,
 "이광민" <kwangmin78@naver.com>,
 "임태형" <th_lim@korea.ac.kr>,
-"민종현" <jh_min@korea.ac.kr>,
+"민종현" <jh_m@korea.ac.kr>,
 "김병욱" <byoungwook.kim@inc.korea.ac.kr>,
 "김민석 (인턴)" <rlaalstjr47@korea.ac.kr>,
 "김한이"<hanyeemy@korea.ac.kr>,
 "홍보의"<boyhong@korea.ac.kr>,
+"정현도"<dossa328@naver.com>,
 ```
 
 ------
